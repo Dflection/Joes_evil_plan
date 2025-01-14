@@ -1,1 +1,5 @@
-Dylan is testing this repo
+<<<<<<< HEAD
+Dylan is testing this repo.
+=======
+Tarantula legs is freaky.
+>>>>>>> 96b4422559c2edbd2679072fb9b251402621180e
